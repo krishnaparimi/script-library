@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "UI Macro",
+  "common-name": "KB Find Query",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-104",
+  "publishing-goal": "Documentation",
+  "solution-details": "kb_find_query",
+  "type": "Script",
+  "version": "1.0.0"
+}

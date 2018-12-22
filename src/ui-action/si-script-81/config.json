@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "UI Action",
+  "common-name": "Temp Common Name",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-81",
+  "publishing-goal": "Documentation",
+  "solution-details": "Check In – Creates a New Record and takes you to that record",
+  "type": "Script",
+  "version": "1.0.0"
+}

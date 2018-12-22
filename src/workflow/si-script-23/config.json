@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Workflow",
+  "common-name": "Check User Attachment",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-23",
+  "publishing-goal": "Documentation",
+  "solution-details": "Setting Checking to see if the user attached an attachment to the form or SC Requested Item",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Script Include",
+  "common-name": "Check User Access",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-101",
+  "publishing-goal": "Documentation",
+  "solution-details": "Checking to See if a User Already has Access to an Application.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "HR Attachment Case",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-38",
+  "publishing-goal": "Documentation",
+  "solution-details": "To see document attached to a case.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "UI Policy",
+  "common-name": "Info Based Response",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-9",
+  "publishing-goal": "Documentation",
+  "solution-details": "Show information based on a response.",
+  "type": "Script",
+  "version": "1.0.0"
+}

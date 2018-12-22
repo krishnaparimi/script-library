@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Set Mandatory Field",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-14",
+  "publishing-goal": "Documentation",
+  "solution-details": "Set field to mandatory.",
+  "type": "Script",
+  "version": "1.0.0"
+}

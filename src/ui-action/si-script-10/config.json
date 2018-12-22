@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "UI Action",
+  "common-name": "Create Form Action",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-10",
+  "publishing-goal": "Documentation",
+  "solution-details": "Create an action for the form.",
+  "type": "Script",
+  "version": "1.0.0"
+}

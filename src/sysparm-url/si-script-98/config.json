@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "SysParm URL",
+  "common-name": "Temp Details",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-98",
+  "publishing-goal": "Documentation",
+  "solution-details": "Temp details.",
+  "type": "Script",
+  "version": "1.0.0"
+}

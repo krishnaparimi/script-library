@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Script Include",
+  "common-name": "Roles for Catalog Var",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-102",
+  "publishing-goal": "Documentation",
+  "solution-details": "Get Available Roles for Application Specified in Service Catalog Variable.",
+  "type": "Script",
+  "version": "1.0.0"
+}

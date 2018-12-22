@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Workflow",
+  "common-name": "Temp Common Name",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-29",
+  "publishing-goal": "Documentation",
+  "solution-details": "Another way of passing variables in a workflow that uses RBA to temporarilty elevate privledges",
+  "type": "Script",
+  "version": "1.0.0"
+}

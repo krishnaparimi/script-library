@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Awarding Badge Points",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-43",
+  "publishing-goal": "Documentation",
+  "solution-details": "Awarding Badge Points to Users Based on Providing Feedback to KB Articles.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Background Script",
+  "common-name": "Replace KB Text",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-95",
+  "publishing-goal": "Documentation",
+  "solution-details": "Script to replace text in knowledge base articles.",
+  "type": "Script",
+  "version": "1.0.0"
+}

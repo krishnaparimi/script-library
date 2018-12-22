@@ -1,0 +1,14 @@
+{
+  "name": "innovation-library-scripts",
+  "version": "1.0.0",
+  "description": "A collection of ServiceNow scripts and snippets",
+  "main": "index.js",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "scaffold": "ruby ./scripts/boot.rb",
+    "test": "./scripts/test.sh"
+  },
+  "author": "Steven Gregory",
+  "license": "ISC",
+  "keywords": []
+}

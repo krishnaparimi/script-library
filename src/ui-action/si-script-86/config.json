@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "UI Action",
+  "common-name": "Temp Common Name",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-86",
+  "publishing-goal": "Documentation",
+  "solution-details": "Convert to Request UI Action",
+  "type": "Script",
+  "version": "1.0.0"
+}

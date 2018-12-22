@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Workflow",
+  "common-name": "Set User Account Activity",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-24",
+  "publishing-goal": "Documentation",
+  "solution-details": "Setting Variables in Create User Account Activity.",
+  "type": "Script",
+  "version": "1.0.0"
+}

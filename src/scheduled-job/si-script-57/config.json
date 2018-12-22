@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Scheduled Job",
+  "common-name": "Replace Regular Expression",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-57",
+  "publishing-goal": "Documentation",
+  "solution-details": "Replace a regular expression (string) in a KB Article.",
+  "type": "Script",
+  "version": "1.0.0"
+}

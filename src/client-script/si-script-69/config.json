@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Temp Common Name",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-69",
+  "publishing-goal": "Documentation",
+  "solution-details": "To pop open a knowledge search before the user can click the submit button",
+  "type": "Script",
+  "version": "1.0.0"
+}

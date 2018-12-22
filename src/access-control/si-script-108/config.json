@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Access Control",
+  "common-name": "Tier 3 Agent Cases",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-108",
+  "publishing-goal": "Documentation",
+  "solution-details": "Tier 3 Agents Can Only See Cases Assigned to Them.",
+  "type": "Script",
+  "version": "1.0.0"
+}

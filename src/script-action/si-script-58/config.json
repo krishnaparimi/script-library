@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Script Action",
+  "common-name": "Event Creation & Updates",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-58",
+  "publishing-goal": "Documentation",
+  "solution-details": "How to create an event and update a field on a record for a document that has been attached either via the paperclip or through an inbound email action.",
+  "type": "Script",
+  "version": "1.0.0"
+}

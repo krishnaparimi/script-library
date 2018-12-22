@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Set Field Reference Based",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-3",
+  "publishing-goal": "Documentation",
+  "solution-details": "Set field based on reference field values.",
+  "type": "Script",
+  "version": "1.0.0"
+}

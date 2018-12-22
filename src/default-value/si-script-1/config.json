@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Default Value",
+  "common-name": "Default User Value",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-1",
+  "publishing-goal": "Documentation",
+  "solution-details": "Set default value to logged in user.",
+  "type": "Script",
+  "version": "1.0.0"
+}

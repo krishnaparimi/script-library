@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "CTI HR Case",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-40",
+  "publishing-goal": "Documentation",
+  "solution-details": "CTI Processing for HR Case (Global Table Business Rule).",
+  "type": "Script",
+  "version": "1.0.0"
+}

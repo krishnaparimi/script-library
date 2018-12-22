@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "SysParm URL",
+  "common-name": "Related CI List",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-100",
+  "publishing-goal": "Documentation",
+  "solution-details": "Create a list of incidents, problems, and change requests related to your CI.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Past Due Date",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-2",
+  "publishing-goal": "Documentation",
+  "solution-details": "Due date not in the past.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Scheduled Job",
+  "common-name": "Remind KB Review",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-56",
+  "publishing-goal": "Documentation",
+  "solution-details": "Remind KB Reviewers to review articles.",
+  "type": "Script",
+  "version": "1.0.0"
+}

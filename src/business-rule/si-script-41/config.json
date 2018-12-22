@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "CTI Incident Processing",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-41",
+  "publishing-goal": "Documentation",
+  "solution-details": "CTI Processing for something other than Incident",
+  "type": "Script",
+  "version": "1.0.0"
+}

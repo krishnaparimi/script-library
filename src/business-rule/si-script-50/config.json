@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Populate Array for Email",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-50",
+  "publishing-goal": "Documentation",
+  "solution-details": "Populating an Array of Recipients (Vendors) for an Email Notification.",
+  "type": "Script",
+  "version": "1.0.0"
+}

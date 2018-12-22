@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Logged In User",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-15",
+  "publishing-goal": "Documentation",
+  "solution-details": "Set field based on logged in user.",
+  "type": "Script",
+  "version": "1.0.0"
+}

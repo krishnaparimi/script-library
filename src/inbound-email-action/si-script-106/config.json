@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Inbound Email Action",
+  "common-name": "HR Case Email",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-106",
+  "publishing-goal": "Documentation",
+  "solution-details": "To create an HR Case on new inbound email.",
+  "type": "Script",
+  "version": "1.0.0"
+}

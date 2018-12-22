@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Script Include",
+  "common-name": "Currency Calculation",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-103",
+  "publishing-goal": "Documentation",
+  "solution-details": "Calculating with Currency via a Client Script that Performs an Ajax call to a Script Include.",
+  "type": "Script",
+  "version": "1.0.0"
+}

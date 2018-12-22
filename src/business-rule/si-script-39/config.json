@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Document Attachment Case",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-39",
+  "publishing-goal": "Documentation",
+  "solution-details": "To see document attached to a case.",
+  "type": "Script",
+  "version": "1.0.0"
+}

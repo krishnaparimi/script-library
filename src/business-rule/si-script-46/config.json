@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Calculate Task Charges",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-46",
+  "publishing-goal": "Documentation",
+  "solution-details": "Calculate Work Order Task Charges.",
+  "type": "Script",
+  "version": "1.0.0"
+}

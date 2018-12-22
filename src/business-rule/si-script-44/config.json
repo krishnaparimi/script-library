@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "KB Search Filter",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-44",
+  "publishing-goal": "Documentation",
+  "solution-details": "To filter Knowledge Searches by user country when search originates from CMS Portal.",
+  "type": "Script",
+  "version": "1.0.0"
+}

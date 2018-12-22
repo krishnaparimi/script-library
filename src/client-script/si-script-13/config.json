@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Client Script",
+  "common-name": "Field Visibility",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-13",
+  "publishing-goal": "Documentation",
+  "solution-details": "Hide or display a field based on another field on the form.",
+  "type": "Script",
+  "version": "1.0.0"
+}

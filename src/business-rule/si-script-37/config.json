@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Accelerate Start Date",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-37",
+  "publishing-goal": "Documentation",
+  "solution-details": "TO accelerate a Start Date.",
+  "type": "Script",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "SysParm URL",
+  "common-name": "Create URL Redirect",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-99",
+  "publishing-goal": "Documentation",
+  "solution-details": "To create a URL redirect from a Service Catalog Record producer that returns a list of CI's grouped.",
+  "type": "Script",
+  "version": "1.0.0"
+}

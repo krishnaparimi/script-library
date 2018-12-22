@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Workflow",
+  "common-name": "Set Field Value",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-8",
+  "publishing-goal": "Documentation",
+  "solution-details": "Set a field value in a workflow.",
+  "type": "Script",
+  "version": "1.0.0"
+}

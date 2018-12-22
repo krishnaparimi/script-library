@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Force Service View Case",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-48",
+  "publishing-goal": "Documentation",
+  "solution-details": "Force end user to a self service view of HR Case.",
+  "type": "Script",
+  "version": "1.0.0"
+}

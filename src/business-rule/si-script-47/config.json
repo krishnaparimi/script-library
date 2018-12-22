@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Pass Order Charges",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-47",
+  "publishing-goal": "Documentation",
+  "solution-details": "Pass Total Charges to Parent work order.",
+  "type": "Script",
+  "version": "1.0.0"
+}

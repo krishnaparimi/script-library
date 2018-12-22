@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Script Action",
+  "common-name": "Inactivity Monitor",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-59",
+  "publishing-goal": "Documentation",
+  "solution-details": "Inactivity Monitor.",
+  "type": "Script",
+  "version": "1.0.0"
+}

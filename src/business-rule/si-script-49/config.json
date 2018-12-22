@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Business Rule",
+  "common-name": "Set Related Value",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "Stephane Lalonde"
+  ],
+  "keywords": [
+    "script",
+    "snippet"
+  ],
+  "name": "si-script-49",
+  "publishing-goal": "Documentation",
+  "solution-details": "Setting a value via another value in a business rule.",
+  "type": "Script",
+  "version": "1.0.0"
+}
